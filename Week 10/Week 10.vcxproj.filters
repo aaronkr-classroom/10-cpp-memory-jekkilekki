@@ -27,6 +27,9 @@
     <ClCompile Include="copy_file.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="concat_files.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />
